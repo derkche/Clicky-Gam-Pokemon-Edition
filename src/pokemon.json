@@ -1,0 +1,75 @@
+[
+    {
+      "id": 1,
+      "name": "Bulbasaur",
+      "clicked": "false",
+      "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/001.png"
+    },
+    {
+      "id": 2,
+      "name": "Ivysaur",
+      "clicked": "false",
+      "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/002.png"
+    },
+    {
+      "id": 3,
+      "name": "Venusaur",
+      "clicked": "false",
+      "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/003.png"
+    },
+    {
+      "id": 4,
+      "name": "Charmander",
+      "clicked": "false",
+      "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/004.png"
+    },
+    {
+      "id": 5,
+      "name": "Charmeleon",
+      "clicked": "false",
+      "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/005.png"
+    },
+    {
+      "id": 6,
+      "name": "Charizard",
+      "clicked": "false",
+      "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/006.png"
+    },
+    {
+      "id": 7,
+      "name": "Squirtle",
+      "clicked": "false",
+      "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/007.png"
+    },
+    {
+      "id": 8,
+      "name": "Wartortle",
+      "clicked": "false",
+      "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/008.png"
+    },
+    {
+      "id": 9,
+      "name": "Blastoise",
+      "clicked": "false",
+      "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/009.png"
+    },
+    {
+      "id": 10,
+      "name": "Vaporeon",
+      "clicked": "false",
+      "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/134.png"
+    },
+    {
+      "id": 11,
+      "name": "Jolteon",
+      "clicked": "false",
+      "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/135.png"
+    },
+    {
+      "id": 12,
+      "name": "Flareon",
+      "clicked": "false",
+      "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/136.png"
+    }
+  ]
+  

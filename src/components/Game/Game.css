@@ -1,0 +1,22 @@
+body {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size:1em;
+    color:white;
+}
+
+.message-bar {
+    display: inline-block;
+    width: 100%;
+}
+
+.gameMessage{
+    display: inline-block;
+    padding-right: 75px;
+    padding-left: 75px;
+}
+
+.gameScores {
+    display: inline-block;
+    padding-right: 75px;
+    padding-left: 75px;
+} 
